@@ -1,0 +1,16 @@
+{
+	"name": "soulrogi/directory-count-sum",
+	"authors": [{
+		"name": "Igor Korolev",
+		"email": "soulrogi@gmail.com"
+	}
+	],
+	"require": {
+		"php": ">=8.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"soulrogi\\directoryCountSum\\": "src/"
+		}
+	}
+}
